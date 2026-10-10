@@ -1,0 +1,280 @@
+{
+  "light": {
+    "color": {
+      "palette": {
+        "carrot-600": {
+          "value": "#ff6600",
+          "type": "color"
+        },
+        "carrot-700": {
+          "value": "#e14d00",
+          "type": "color"
+        },
+        "carrot-100": {
+          "value": "#fff2ec",
+          "type": "color"
+        },
+        "gray-00": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "gray-100": {
+          "value": "#f7f8f9",
+          "type": "color"
+        },
+        "gray-200": {
+          "value": "#f3f4f5",
+          "type": "color"
+        },
+        "gray-400": {
+          "value": "#dcdee3",
+          "type": "color"
+        },
+        "gray-800": {
+          "value": "#555d6d",
+          "type": "color"
+        },
+        "gray-1000": {
+          "value": "#1a1c20",
+          "type": "color"
+        },
+        "green-700": {
+          "value": "#58d0b4",
+          "type": "color"
+        },
+        "red-700": {
+          "value": "#fa342c",
+          "type": "color"
+        },
+        "blue-700": {
+          "value": "#217cf9",
+          "type": "color"
+        }
+      },
+      "bg": {
+        "brand-solid": {
+          "value": "{color.palette.carrot-600}",
+          "type": "color"
+        },
+        "brand-weak": {
+          "value": "{color.palette.carrot-100}",
+          "type": "color"
+        },
+        "layer-default": {
+          "value": "{color.palette.gray-00}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "neutral": {
+          "value": "{color.palette.gray-1000}",
+          "type": "color"
+        },
+        "neutral-muted": {
+          "value": "{color.palette.gray-800}",
+          "type": "color"
+        },
+        "positive": {
+          "value": "{color.palette.green-700}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{color.palette.red-700}",
+          "type": "color"
+        },
+        "informative": {
+          "value": "{color.palette.blue-700}",
+          "type": "color"
+        }
+      }
+    },
+    "studio": {
+      "spacing": {
+        "card-gap": {
+          "value": "16px",
+          "type": "spacing"
+        },
+        "card-padding": {
+          "value": "20px",
+          "type": "spacing"
+        }
+      },
+      "radius": {
+        "card": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "control": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "fontSize": {
+        "body": {
+          "value": "13px",
+          "type": "fontSizes"
+        },
+        "heading": {
+          "value": "22px",
+          "type": "fontSizes"
+        }
+      },
+      "fontWeight": {
+        "heading": {
+          "value": "700",
+          "type": "fontWeights"
+        }
+      }
+    }
+  },
+  "dark": {
+    "color": {
+      "palette": {
+        "carrot-600": {
+          "value": "#e65200",
+          "type": "color"
+        },
+        "carrot-700": {
+          "value": "#ff6600",
+          "type": "color"
+        },
+        "carrot-100": {
+          "value": "#31241f",
+          "type": "color"
+        },
+        "gray-00": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "gray-100": {
+          "value": "#16171b",
+          "type": "color"
+        },
+        "gray-200": {
+          "value": "#1d2025",
+          "type": "color"
+        },
+        "gray-400": {
+          "value": "#393d46",
+          "type": "color"
+        },
+        "gray-800": {
+          "value": "#dcdee3",
+          "type": "color"
+        },
+        "gray-1000": {
+          "value": "#f3f4f5",
+          "type": "color"
+        },
+        "green-700": {
+          "value": "#22b27f",
+          "type": "color"
+        },
+        "red-700": {
+          "value": "#ff6e60",
+          "type": "color"
+        },
+        "blue-700": {
+          "value": "#41a2f9",
+          "type": "color"
+        }
+      },
+      "bg": {
+        "brand-solid": {
+          "value": "{color.palette.carrot-700}",
+          "type": "color"
+        },
+        "brand-weak": {
+          "value": "{color.palette.carrot-100}",
+          "type": "color"
+        },
+        "layer-default": {
+          "value": "{color.palette.gray-100}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "neutral": {
+          "value": "{color.palette.gray-1000}",
+          "type": "color"
+        },
+        "neutral-muted": {
+          "value": "{color.palette.gray-800}",
+          "type": "color"
+        },
+        "positive": {
+          "value": "{color.palette.green-700}",
+          "type": "color"
+        },
+        "critical": {
+          "value": "{color.palette.red-700}",
+          "type": "color"
+        },
+        "informative": {
+          "value": "{color.palette.blue-700}",
+          "type": "color"
+        }
+      }
+    },
+    "studio": {
+      "spacing": {
+        "card-gap": {
+          "value": "16px",
+          "type": "spacing"
+        },
+        "card-padding": {
+          "value": "20px",
+          "type": "spacing"
+        }
+      },
+      "radius": {
+        "card": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "control": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "fontSize": {
+        "body": {
+          "value": "13px",
+          "type": "fontSizes"
+        },
+        "heading": {
+          "value": "22px",
+          "type": "fontSizes"
+        }
+      },
+      "fontWeight": {
+        "heading": {
+          "value": "700",
+          "type": "fontWeights"
+        }
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "seed-studio-light",
+      "name": "Light",
+      "selectedTokenSets": {
+        "light": "enabled"
+      }
+    },
+    {
+      "id": "seed-studio-dark",
+      "name": "Dark",
+      "selectedTokenSets": {
+        "dark": "enabled"
+      }
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "light",
+      "dark"
+    ]
+  }
+}
